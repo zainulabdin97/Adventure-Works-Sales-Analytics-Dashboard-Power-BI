@@ -8,8 +8,6 @@ The project demonstrates practical skills in **Power BI, DAX, Power Query, data 
 
 ## Dashboard Preview
 
-> Add exported screenshots from Power BI here before publishing the repository.
-
 ### Executive Summary
 
 ![Executive Summary](screenshots/executive-summary.png)
