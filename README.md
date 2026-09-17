@@ -240,11 +240,3 @@ The goal of this project was not only to create visualizations, but to build an 
 The dashboard demonstrates an end-to-end BI workflow:
 
 **Raw Data → Data Transformation → Data Model → DAX Measures → Interactive Dashboard → Business Insights**
-
----
-
-## Author
-
-**Your Name**
-
-Data Analytics / Business Intelligence Portfolio Project
