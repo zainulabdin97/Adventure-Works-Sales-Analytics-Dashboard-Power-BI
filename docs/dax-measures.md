@@ -25,7 +25,6 @@ Avg. Retial Price =
 AVERAGE('Products Lookup'[ProductPrice])
 ```
 
-> The measure name appears as `Avg. Retial Price` in the report metadata, including the original spelling.
 
 ### Total Orders
 
