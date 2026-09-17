@@ -149,6 +149,8 @@ Total Profit
 Total Orders
 Total Returns
 Return Rate
+
+📄 [View the complete DAX measure documentation](docs/dax-measures.md)
 ```
 
 These measures support comparisons, trends, KPI cards, gauges, and interactive dashboard visuals.
@@ -192,7 +194,8 @@ A few insights from the underlying sales data include:
 adventure-works-power-bi-dashboard/
 │
 ├── README.md
-├── AW-Sales-Dashboard.pbix
+powerbi/
+└── AW-Sales.pbix
 │
 ├── data/
 │   ├── Calendar.csv
@@ -210,9 +213,9 @@ adventure-works-power-bi-dashboard/
 │   ├── executive-summary.png
 │   ├── map-analysis.png
 │   └── product-details.png
-│
-└── docs/
-    └── data-model.png
+docs/
+├── data-model.png
+└── dax-measures.md
 ```
 
 ---
