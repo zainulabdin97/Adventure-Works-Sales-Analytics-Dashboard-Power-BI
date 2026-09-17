@@ -135,8 +135,6 @@ Core relationships include:
 
 This structure enables filtering and analysis across customers, products, dates, geography, sales, and returns.
 
-> Add a screenshot of the Power BI model view here:
-
 ![Data Model](docs/data-model.png)
 
 ---
@@ -156,8 +154,6 @@ Return Rate
 ```
 
 These measures support comparisons, trends, KPI cards, gauges, and interactive dashboard visuals.
-
-> For a stronger technical portfolio, the exact DAX formulas can also be documented here or placed in a separate `docs/dax-measures.md` file.
 
 ---
 
